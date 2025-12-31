@@ -3,6 +3,7 @@ The main goal of this project is to build and evaluate a Recommendation Engine c
 The notebook covers the end-to-end workflow — from data preprocessing to model evaluation and insights visualization.
 
 # Key Features
+
   1. Data Preprocessing – Cleaning and structuring data for analysis
   2. Exploratory Data Analysis (EDA) – Understanding user trends and correlations
  
@@ -15,6 +16,7 @@ The notebook covers the end-to-end workflow — from data preprocessing to model
   5. Visualization – Insights represented using Matplotlib/Seaborn
 
 # Technologies & Libraries Used
+
     1. Python
     2. Pandas, NumPy – Data manipulation
     3. Scikit-learn – Machine learning algorithms
@@ -23,6 +25,7 @@ The notebook covers the end-to-end workflow — from data preprocessing to model
     6. Jupyter Notebook – Development environment
 
 # Results & Insights
+
     1. The recommendation model successfully identifies similar users/items.
     2. Demonstrates improved accuracy and relevant recommendations after tuning parameters.
     3. Visual insights provide a better understanding of user engagement trends.
