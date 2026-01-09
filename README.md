@@ -19,7 +19,7 @@ The notebook covers the end-to-end workflow — from data preprocessing to model
   4. Surprise / Recommender Systems Libraries (if used)
   5. Matplotlib, Seaborn – Visualization
   6. Jupyter Notebook – Development environment
-  7. 
+
 # Results & Insights
   1. The recommendation model successfully identifies similar users/items.
   2. Demonstrates improved accuracy and relevant recommendations after tuning parameters.
