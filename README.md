@@ -6,9 +6,9 @@ The notebook covers the end-to-end workflow — from data preprocessing to model
   1. Data Preprocessing – Cleaning and structuring data for analysis
   2. Exploratory Data Analysis (EDA) – Understanding user trends and correlations
   3. Model Building – Implemented algorithms such as:
-       Ⅰ. Collaborative Filtering
-       Ⅱ. Content-Based Filtering
-       Ⅲ. Hybrid Recommendation (if applicable)
+       1. Collaborative Filtering
+       2. Content-Based Filtering
+       3. Hybrid Recommendation (if applicable)
   4. Evaluation Metrics – Measures like RMSE, Precision@K, and Recall@K
   5. Visualization – Insights represented using Matplotlib/Seaborn
 
